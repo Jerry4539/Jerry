@@ -14,7 +14,7 @@ A Android RAT with lots of features , check README for more information.
 * pkg install nodejs
 * pkg install php --upgrade
 * mkdir ~/Jerry4539
-* git clone https://github.com/Jerry4539/HaxRat
+* git clone https://github.com/Jerry4539/Jerry
 * ls
 * cd HaxRat
 * cd server
