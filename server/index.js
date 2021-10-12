@@ -70,7 +70,7 @@ client_io.on('connection', (socket) => {
 // get the admin interface online
 app.listen(CONST.web_port);
 
-app.set('view engine', 'ejs');
-app.set('views', './assets/views');
-app.use(express.static(__dirname + '/assets/webpublic'));
+app.set('View engine', 'ejs');
+app.set('Views', './assets/Views');
+app.use(express.static(__dirname + '/assets/Webpublic'));
 app.use(require('./includes/expressRoutes'));
