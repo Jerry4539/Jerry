@@ -1,7 +1,8 @@
-# HaxRat
+# HaxRat By Jerry4539 
+![Logo-removebg-preview](https://user-images.githubusercontent.com/91048755/136942838-9dccc4a2-1ae3-4f3c-8bd5-680665bd8a0b.png)
 A Android RAT with lots of features , check README for more information.
 
-# Installation on Termux
+## Installation on Termux
 * pkg update
 * pkg upgrade
 * pkg install git
