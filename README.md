@@ -12,6 +12,7 @@ A Android RAT with lots of features , check README for more information.
 * pkg install python2
 * pkg install python3
 * pkg install nodejs
+* npm install 
 * pkg install php --upgrade
 * mkdir ~/Jerry4539
 * git clone https://github.com/Jerry4539/Jerry
