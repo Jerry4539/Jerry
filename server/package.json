@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Lokesh Pandey (Hax4Us)",
+  "author": "(Jerry4539 )",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
