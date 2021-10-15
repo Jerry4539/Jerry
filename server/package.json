@@ -1,7 +1,7 @@
 {
-  "name": "haxRat",
+  "name": "Jerry",
   "version": "1.0.0",
-  "description": "haxRat - Remote Android Managment Suite",
+  "description": "Jerry - Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
